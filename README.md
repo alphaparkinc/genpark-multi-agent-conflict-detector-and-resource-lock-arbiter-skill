@@ -54,3 +54,10 @@ res_comp = arbiter.acquire_lock("file:///workspace/api.py", "subagent-2")
 print(res_comp["granted"])  # False
 print(res_comp["error"])
 ```
+
+---
+
+## GenPark Ecosystem
+
+- **Official Website**: [https://www.genpark.ai](https://www.genpark.ai)
+- **LinkedIn Page**: [https://www.linkedin.com/company/92955550](https://www.linkedin.com/company/92955550)
