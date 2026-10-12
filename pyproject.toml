@@ -1,0 +1,7 @@
+[project]
+name = "genpark-multi-agent-conflict-detector-and-resource-lock-arbiter-skill"
+version = "1.0.0"
+description = "Detects concurrent multi-agent resource collisions, enforces TTL-backed resource locks, and arbitrates competing agent proposals"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
